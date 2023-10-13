@@ -157,7 +157,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.Trisgram.GeoTwinBuildUnityURPVRSample
-    Standalone: com.Unity-Technologies.VR-Template
+    Standalone: com.Trisgram.GeoTwinBuild-Unity-URP-VR-Sample
   buildNumber:
     Standalone: 0
     VisionOS: 0
